@@ -150,9 +150,9 @@ $query = mysqli_query($conn,"SELECT * FROM tblSubscribers");
 </div>
  <?php endif;?>
   <table class="table is-hoverable is-striped is-narrow is-bordered pt-3">
-    <thead class="has-text-centered">
+    <thead class="has-text-centered pt-3">
       <tr>
-       ajsj
+       
         <td>First Name</td>
         <td>Last Name</td>
         <td>Username</td>
