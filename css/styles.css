@@ -1,0 +1,40 @@
+
+.form-container{
+
+	background: #ffff;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 6px 0px #000;
+
+}
+
+.form-container-movie
+
+{
+
+background: #fff;
+	padding: 50px;
+	
+
+}
+
+.is-space
+{
+	padding: 10px;
+}
+
+.menu {
+  position: sticky;
+  display: inline-block;
+  vertical-align: top;
+  max-height: 100vh;
+  overflow-y: auto;
+  width: 200px;
+  top: 0;
+  bottom: 0;
+  padding: 30px;
+}
+
+.content {
+  display: inline-block;
+}
